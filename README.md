@@ -5,16 +5,14 @@ We built the GUI with Eclipse Window Builder.
 
 ## Logging In
 
-
-![This is an image](https://imgur.com/i0IgTWB)
-## Main Functionality
+## Main Functionality on the Manager Side
 On the Employee Database Management System window.
 
 On the right is the database which updates based on what is in the employee.db file. 
 
 On the top left is the input form for using the add and edit buttons. 
 
-On the bottom left is the delete and print button. 
+On the bottom left is the delete, print, tasks, requests, documents, and performances button. 
 
 ## Add button
 The user must fill out all input fields and after valid input, the program sends the input data to the database file to be recorded.
