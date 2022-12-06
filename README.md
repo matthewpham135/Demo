@@ -52,4 +52,16 @@ Performs input validation on the ID and deletes it if it exists.
 ## Print Button
 Print button opens up a window with a printing GUI that can print the database shown in the table on the right.
 
+## Tasks Button
+
+## Requests Button
+
+## Documents Button
+
+## Performances Button
+
+
+
+## Employee Side (Non Manager)
+
 
