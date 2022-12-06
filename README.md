@@ -4,18 +4,9 @@ After forking/downloading this project. It should be able to be run in a Java ID
 We built the GUI with Eclipse Window Builder.
 
 ## Logging In
-After running the code, a window should pop up prompting the user to input a username and password and select submit.
-
-Here are the login details:
-- Username: "username"
-- Password: "password"
-
-Upon logging in a message should appear saying "Login Successful" followed by "Connection Made". 
-Then the Employee Database Management System window should appear. 
-
-![program image](https://i.imgur.com/P3nGDbg.png)
 
 
+![This is an image](https://imgur.com/i0IgTWB)
 ## Main Functionality
 On the Employee Database Management System window.
 
@@ -61,4 +52,6 @@ Delete button opens up a pop up that asks the user to input an employee ID in or
 Performs input validation on the ID and deletes it if it exists. 
 
 ## Print Button
-Print button opens up a window with a printing GUI that can print the database shown in the table on the right. 
+Print button opens up a window with a printing GUI that can print the database shown in the table on the right.
+
+
